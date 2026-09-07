@@ -110,17 +110,21 @@ Continuing development on my Python system for monitoring and evaluating equival
 
 **Current focus:** real-time market data, cross-venue normalization, order-book analysis, execution safety, reliability, and automated testing.
 
-### Roblox Game
+### Smash-and-Upgrade Incremental Game — Roblox
 
-Currently developing a game on the Roblox platform.
+Building a progression-focused Roblox game where players clear junk from a town, collect and sell scrap, upgrade their capabilities, and unlock increasingly difficult areas.
 
-I'm using this project to explore game systems, gameplay logic, and the process of building an interactive multiplayer experience from the ground up.
+A major part of the project is studying what makes progression feel rewarding and designing systems that give players clear reasons to keep returning. I’m iterating on pacing, rewards, difficulty, economy balance, and event structure based on what makes the core loop feel satisfying rather than repetitive.
 
-### Unity Game / Simulation
+**Current focus:** player progression, retention-focused game systems, destruction mechanics, scrap economy, upgrade balancing, unlockable areas, persistent cleanup, and competitive Smash Rush events.
 
-Also developing a project in Unity focused on game and simulation development.
+### Living-World RPG / Simulation — Unity
 
-This project is giving me more experience working with real-time systems, object-oriented game architecture, and interactive simulation design.
+Building a work-in-progress medieval sandbox simulation where autonomous characters, settlements, economies, relationships, crime, and survival systems interact to create an evolving world.
+
+The goal is for the player and NPCs to operate under the same underlying rules so that stories and conflicts emerge naturally from the simulation rather than from heavily scripted events.
+
+**Current focus:** simulation architecture, autonomous NPC behavior, world-state systems, emergent interactions, and Unity/C# development.
 
 ### Coursework
 

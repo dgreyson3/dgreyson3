@@ -49,6 +49,30 @@ The engine combines REST APIs and WebSocket market data with depth-aware pricing
 
 ---
 
+### [GTracker](https://gtracker-pi.vercel.app/)
+
+A full-stack League of Legends performance and team analytics application I originally built in **late 2024–early 2025** for my semester's esports team.
+
+The goal was to replace the need to jump between several separate OP.GG profiles by giving the team one place to review player statistics, recent matches, goals, shared games, and team performance.
+
+**Highlights:**
+- Integrated Riot Account, Summoner, and Match APIs
+- Built player profiles with match history and derived performance statistics
+- Added charts for CS/min, kill participation, vision, KDA, and other metrics
+- Built persistent player goals with measurable targets and progress tracking
+- Implemented team creation, invite codes, and member authorization
+- Detected matches played together by linked teammates
+- Built team analytics with roster comparisons, shared-match records, champion frequency, and role distribution
+- Added a synthetic public demo that runs without real Riot accounts or private player data
+
+**Technologies:** JavaScript, React, Next.js, Node.js, MongoDB, Mongoose, Tailwind CSS, Recharts, Riot Games API, JWT, bcrypt
+
+[**Live Demo →**](https://gtracker-pi.vercel.app/)
+
+> GTracker is a completed project and is no longer in active development. I would like to merge this with esports central to have an all in one platform.
+
+---
+
 ### Esports Analytics & Video Storage
 
 A full-stack application for collecting esports performance data, visualizing player metrics, and managing video storage.

@@ -73,15 +73,25 @@ The goal was to replace the need to jump between several separate OP.GG profiles
 
 ---
 
-### Esports Analytics & Video Storage
+### [Esports Central](https://github.com/dgreyson3/Esports-Central-Showcase)
 
-A full-stack application for collecting esports performance data, visualizing player metrics, and managing video storage.
+A self-hosted esports VOD library I built for my college esports team after we ran into a simple problem: our scrim recordings were stuck on the individual computers that recorded them in the esports lab.
 
-I integrated REST APIs with PostgreSQL, built a Next.js frontend for players and coaches, automated video uploads to MinIO with Python, and deployed the application on an Ubuntu server.
+Esports Central gave **6 players and 1 coach** a central place to upload, browse, and review those recordings remotely.
 
-**Technologies:** Python, JavaScript, Next.js, PostgreSQL, MinIO, Linux, REST APIs
+**Highlights:**
+- Built authenticated team accounts and a shared VOD library
+- Implemented direct browser-to-MinIO MP4 uploads using temporary presigned URLs
+- Generated video thumbnails client-side before upload
+- Added real-time upload progress for large video files
+- Stored VOD metadata and team/uploader relationships in PostgreSQL with Prisma
+- Built uploader filtering and browser-based video playback
+- Containerized Next.js, PostgreSQL, and MinIO with Docker Compose
+- Deployed on an Ubuntu VM under Proxmox with NGINX and HTTPS
 
-*A public project showcase is in progress.*
+**Technologies:** Next.js, React, Node.js, PostgreSQL, Prisma, MinIO, Docker, Ubuntu, Proxmox, NGINX
+
+> Source code remains private. The linked repository contains a public project showcase.
 
 ---
 

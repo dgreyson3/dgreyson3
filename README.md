@@ -102,12 +102,42 @@ Esports Central gave **6 players and 1 coach** a central place to upload, browse
 **Systems & Infrastructure:** Linux, Docker, NGINX, MinIO  
 **Testing & Tools:** Git, GitHub, Pytest, Postman, Arduino
 
-## Currently
+## Currently Working On
 
-- Completing my B.S. in Computer Science at Central Michigan University
-- Graduating **May 2027**
-- Building and refining personal software projects
-- Seeking **2027 new-graduate software engineering opportunities**
+### Cross-Venue Prediction Market Arbitrage Engine
+
+Continuing development on my Python system for monitoring and evaluating equivalent prediction-market contracts across Kalshi and Polymarket.
+
+**Current focus:** real-time market data, cross-venue normalization, order-book analysis, execution safety, reliability, and automated testing.
+
+### Roblox Game
+
+Currently developing a game on the Roblox platform.
+
+I'm using this project to explore game systems, gameplay logic, and the process of building an interactive multiplayer experience from the ground up.
+
+### Unity Game / Simulation
+
+Also developing a project in Unity focused on game and simulation development.
+
+This project is giving me more experience working with real-time systems, object-oriented game architecture, and interactive simulation design.
+
+### Coursework
+
+I'm completing my final year of my B.S. in Computer Science at **Central Michigan University**, graduating **May 2027**.
+
+**Current Fall 2026 coursework:**
+- Software Development Tools
+- Senior Design I
+- Supervised Machine Learning
+- Social Engineering, Security Law, Policy & Ethics
+- Elementary Number Theory
+
+**Spring 2027 coursework includes:**
+- Senior Design II
+- Computer Security & Cryptography
+- Data Communications & Computer Networks
+- Mobile Application Development
 
 ## Source Code & Technical Walkthroughs
 

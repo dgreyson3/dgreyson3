@@ -94,13 +94,6 @@ Esports Central gave **6 players and 1 coach** a central place to upload, browse
 > Source code remains private. The linked repository contains a public project showcase.
 
 ---
-
-### Custom Hardware & Control Interface
-
-An Arduino-based hardware/software project that captures analog and digital sensor inputs and processes them through Python control software.
-
-**Technologies:** Python, Arduino, Serial Communication
-
 ## Technical Skills
 
 **Languages:** Python, Java, C, JavaScript, SQL  
@@ -115,6 +108,16 @@ An Arduino-based hardware/software project that captures analog and digital sens
 - Graduating **May 2027**
 - Building and refining personal software projects
 - Seeking **2027 new-graduate software engineering opportunities**
+
+## Source Code & Technical Walkthroughs
+
+Some of my projects use private source repositories because they contain active product code, private infrastructure details, or implementation logic I do not want to publish publicly.
+
+I'm happy to **share or walk through the source code privately with recruiters, hiring managers, and interviewers** upon request.
+
+If you'd like to see the implementation behind one of my showcased projects, feel free to contact me through [LinkedIn](https://www.linkedin.com/in/greyson-fischer/).
+
+
 
 ## Connect
 
